@@ -1,7 +1,8 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-jupyter
-ipykernel
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+jupyter>=1.0
+ipykernel>=6.29
+opencv-python>=4.10
